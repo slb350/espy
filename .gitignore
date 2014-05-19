@@ -23,3 +23,6 @@ config/secrets.yml
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+
+title_pie.json
+title_vis.json

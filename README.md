@@ -12,7 +12,7 @@ pip install vincent
 pip install elasticsearch 
 -
 then in the folder where you put the python file, do: 
-python sony_json.py
+python espy.py
 -
 unless you have python 3 installed, if that is the case, you need to do pip3 on all the pip commands and python3 on the python command for it to run correctly.
 -
