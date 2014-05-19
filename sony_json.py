@@ -5,7 +5,7 @@ import vincent
 from elasticsearch import Elasticsearch
 
 es = Elasticsearch([
-    {'host': 'ops.digiman.us', 'port': '9200'}
+    {'host': 'localhost', 'port': '9200'}
 ])
 
 # get each date from 1 week previous to today until today
